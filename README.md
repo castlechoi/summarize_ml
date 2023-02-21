@@ -10,12 +10,12 @@ ML & DL
 ## ML
 - Classifier
   - DecisionTree
-- RandomForest
+  - RandomForest
   - LightGBM
 
 - Regression
-  - Ridge
-  - Lasso
+  - Ridge ( L1 Regulation )
+  - Lasso ( L2 Regulation )
 
 ## Deep Learning
 - Classifier
