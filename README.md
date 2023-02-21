@@ -1,4 +1,4 @@
-# Aimers_Project  
+# Organizing what I learned  
 ML & DL  
 ![castlechoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlechoi&show_icons=true&theme=radical)
 
