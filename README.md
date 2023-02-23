@@ -1,9 +1,14 @@
-# Organizing what I learned  
-ML & DL  
+# Summeraizing what I learned  
+ML
 ![castlechoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlechoi&show_icons=true&theme=radical)
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+Language : <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
+Frameworks : <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>\t
+             <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=Sklearn&logoColor=white"/>\t
+             <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>\t
+             <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/>\t
+             
 
 ## Process Code
 ```
@@ -19,11 +24,9 @@ ML & DL
   - GradientBoostingClassifier
   - RandomForestClassifier
   - HistGradientBoostingClassifier
+  - XGBoost
+    - Linear / tree-based
 
-- Regression
+- Linear Regression
   - Ridge ( L1 Regulation )
   - Lasso ( L2 Regulation )
-
-## Deep Learning
-- Classifier
-  - CrossEntropy
