@@ -1,5 +1,7 @@
 # Smart Factory product quality classification 
 URL : <https://dacon.io/competitions/official/236055/overview/description>  
+Public : #74
+Private : #143
 ### Experiments
 * Data Features
   * Product ID
